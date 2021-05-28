@@ -1,5 +1,8 @@
-export class User {
-numero: string;
+
+
+export class Endereco {
+    numero: string;
+
     complemento: string;
     
     cep: string;
